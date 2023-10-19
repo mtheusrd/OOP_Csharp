@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\POO\Introducao_a_programacao_orientada_a_objetos\bin\Debug\Introducao_a_programacao_orientada_a_objetos.exe.config
+C:\Users\matheus.goncalves\source\repos\POO\Introducao_a_programacao_orientada_a_objetos\bin\Debug\Introducao_a_programacao_orientada_a_objetos.exe
+C:\Users\matheus.goncalves\source\repos\POO\Introducao_a_programacao_orientada_a_objetos\bin\Debug\Introducao_a_programacao_orientada_a_objetos.pdb
+C:\Users\matheus.goncalves\source\repos\POO\Introducao_a_programacao_orientada_a_objetos\obj\Debug\Introducao_a_programacao_orientada_a_objetos.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\POO\Introducao_a_programacao_orientada_a_objetos\obj\Debug\Introducao_a_programacao_orientada_a_objetos.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\POO\Introducao_a_programacao_orientada_a_objetos\obj\Debug\Introducao_a_programacao_orientada_a_objetos.exe
+C:\Users\matheus.goncalves\source\repos\POO\Introducao_a_programacao_orientada_a_objetos\obj\Debug\Introducao_a_programacao_orientada_a_objetos.pdb

@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\POO\Metodos_de_classes\bin\Debug\Metodos_de_classes.exe.config
+C:\Users\matheus.goncalves\source\repos\POO\Metodos_de_classes\bin\Debug\Metodos_de_classes.exe
+C:\Users\matheus.goncalves\source\repos\POO\Metodos_de_classes\bin\Debug\Metodos_de_classes.pdb
+C:\Users\matheus.goncalves\source\repos\POO\Metodos_de_classes\obj\Debug\Metodos_de_classes.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\POO\Metodos_de_classes\obj\Debug\Metodos_de_classes.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\POO\Metodos_de_classes\obj\Debug\Metodos_de_classes.exe
+C:\Users\matheus.goncalves\source\repos\POO\Metodos_de_classes\obj\Debug\Metodos_de_classes.pdb

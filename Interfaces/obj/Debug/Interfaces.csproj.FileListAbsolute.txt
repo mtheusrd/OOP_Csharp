@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\POO\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\matheus.goncalves\source\repos\POO\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\matheus.goncalves\source\repos\POO\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\matheus.goncalves\source\repos\POO\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\POO\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\POO\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\matheus.goncalves\source\repos\POO\Interfaces\obj\Debug\Interfaces.pdb
