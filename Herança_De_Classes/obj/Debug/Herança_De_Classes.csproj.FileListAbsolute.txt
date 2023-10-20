@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\POO\Herança_De_Classes\bin\Debug\Herança_De_Classes.exe.config
+C:\Users\matheus.goncalves\source\repos\POO\Herança_De_Classes\bin\Debug\Herança_De_Classes.exe
+C:\Users\matheus.goncalves\source\repos\POO\Herança_De_Classes\bin\Debug\Herança_De_Classes.pdb
+C:\Users\matheus.goncalves\source\repos\POO\Herança_De_Classes\obj\Debug\Herança_De_Classes.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\POO\Herança_De_Classes\obj\Debug\Herança_De_Classes.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\POO\Herança_De_Classes\obj\Debug\Herança_De_Classes.exe
+C:\Users\matheus.goncalves\source\repos\POO\Herança_De_Classes\obj\Debug\Herança_De_Classes.pdb
