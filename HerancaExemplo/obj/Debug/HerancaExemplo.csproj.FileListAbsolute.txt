@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\POO\HerancaExemplo\bin\Debug\HerancaExemplo.exe.config
+C:\Users\matheus.goncalves\source\repos\POO\HerancaExemplo\bin\Debug\HerancaExemplo.exe
+C:\Users\matheus.goncalves\source\repos\POO\HerancaExemplo\bin\Debug\HerancaExemplo.pdb
+C:\Users\matheus.goncalves\source\repos\POO\HerancaExemplo\obj\Debug\HerancaExemplo.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\POO\HerancaExemplo\obj\Debug\HerancaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\POO\HerancaExemplo\obj\Debug\HerancaExemplo.exe
+C:\Users\matheus.goncalves\source\repos\POO\HerancaExemplo\obj\Debug\HerancaExemplo.pdb
