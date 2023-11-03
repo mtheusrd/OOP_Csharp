@@ -1,0 +1,7 @@
+C:\Users\matheus.goncalves\source\repos\POO\Projet_Nove\obj\Debug\Projet_Nove.csproj.AssemblyReference.cache
+C:\Users\matheus.goncalves\source\repos\POO\Projet_Nove\obj\Debug\Projet_Nove.csproj.CoreCompileInputs.cache
+C:\Users\matheus.goncalves\source\repos\POO\Projet_Nove\bin\Debug\Projet_Nove.exe.config
+C:\Users\matheus.goncalves\source\repos\POO\Projet_Nove\bin\Debug\Projet_Nove.exe
+C:\Users\matheus.goncalves\source\repos\POO\Projet_Nove\bin\Debug\Projet_Nove.pdb
+C:\Users\matheus.goncalves\source\repos\POO\Projet_Nove\obj\Debug\Projet_Nove.exe
+C:\Users\matheus.goncalves\source\repos\POO\Projet_Nove\obj\Debug\Projet_Nove.pdb
